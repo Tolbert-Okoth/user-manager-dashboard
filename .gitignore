@@ -1,0 +1,24 @@
+# Node.js / Backend
+user-manager-backend/node_modules
+user-manager-backend/.env
+user-manager-backend/npm-debug.log*
+user-manager-backend/yarn-debug.log*
+user-manager-backend/yarn-error.log*
+
+# React / Frontend
+user-manager-frontend/node_modules
+user-manager-frontend/build
+user-manager-frontend/.env.local
+user-manager-frontend/.env.development.local
+user-manager-frontend/.env.test.local
+user-manager-frontend/.env.production.local
+user-manager-frontend/npm-debug.log*
+user-manager-frontend/yarn-debug.log*
+user-manager-frontend/yarn-error.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files (VS Code)
+.vscode/
